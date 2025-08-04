@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vast-collective-467816-u5",
+  "private_key_id": "40aaca3ca97f05ebe417b77eb31f450befac8ce6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCi2M4qVJ1vdozC\nU2jvg1Ghj18PZK+jBz9txj2dR7rEmkwGV4vXbgop3pwx8bshGaEWe6G7SrCP2A/A\n4E8riaU/JcEXxXZmPNci1Ft23+hYhwqZBu6rhFIy3xi2Snz3lHWbHmZgqwz8o8px\nZuNgcY5gCgGx0JOzQisJ/O/ttmWWRl0yWIWIeUBhTD4F4J+YWR4IbBR6VA8b3wKd\nWMHspmxNgU0CaSU6X6Zcpdwl7ge8mzgU549QQtbn1hG2Urpu2ZuFW6hrT+y5s8Ki\nkSKzBbRo6m+hfqF0g3VabqaoHEnWM8+tURbwxEUfAXqNnOAZ03WbMEp97LQLf+UE\nUqTv0xE1AgMBAAECggEAG3+FrLM2FHzNvwCrrwobLi9SC3zihaJzLPu1KspSeOFf\nJhEBbaLIt5I+CNb7VNcJkwzUXhZ6IwgGfPjDlaP8EeIzrWpsGE58u4ZlXXjouI4x\nFW8MvUyuPqXae+mvGXVpuIRVIEyx+DVGOYj4qy/xrTjzWU3Rqwrozpp1/0t18v5w\nxgsyJe+J3utbrzjNnGxOk2gbXk0ezjSsITm92kxq3pTa7fLw0Il50yiwVeXk3nEn\nOFl+44n7m/2pVouLnopuKuym6l8wIMsmG52g+PfOxaYBTx2X6tWELOGE1nm3P/Rb\nMRdC69UqyABTABTn0X9sUQMLJm9niqxsrgmjsbMHfwKBgQDPuOoKjK4UnhmIT1Ov\nXWC3To7ohWxKDtU/zlcnnUlVxcr0yVd8HAex69mjkoNRMeMAwOxAPuDarvuGYPuy\nfvbXYKVupAFZAUQ9ZD4YYLbzWIXih+4X/+Rj2BrmcMplGtNjS0IDx0l5xOfUgHwN\nYAcvaPmV9DiC3c5O13GPuxzV0wKBgQDIseNX4FqNkbwU/t08il0/w+wqwYEdeARC\nV7CZ532h0C6xc3KjnQkfBm602vA617SOsHZBLQGiJKzxFxGm1bW1x//Zi5NQ/ny1\nYHl/JuF4CNhVC82Dsnf5Pr1tp6zP4qF1RG0/nwn2Ci9qqOg+EIdyVc6OqIb0z7qN\n00FMdmdv1wKBgCxM+pUfZaz9/uIEUQuwdYUCmxXaBrtQqIhAIHRRZieF1IAaRK8y\nZy256COrhpgVdJ1fh8M35cqd0QTawDNUQp6yfPW4wpTR4VTagSe/0KTbd0pVxSCX\nMYVdvHbzDSc87mJZ1Y1qvi/bH7pBYLOVjFK/J6OkfzzhwzMrXYvS0xaDAoGAWqNs\nR129x74PsXPBOvxKTOgRGuY1h7eSRNwRmBBiPtgknmPDXH0ph2eCTA+s+wY8N00e\nuyS2XiIuMNv4Tt6pqCVhOUC+EZA9hjTB6lkG7w0flpk0AcxyPpDFQGa/t0tlG+8B\nYABVoVbMP2F1McKJSWvTU75s5NeEK1VDYmL/KBUCgYBJmBiFbA3xFr3dIrZ5X7Eb\nokU7V/gNUv3dZ8/zoUM0GlUuyn6mk4S5a5thGtLnrV0C1rZT3xF0IUmLzDgd7Ncz\nWxiHp9UOxlCxnrsu5eObQHazv4zIXka+W2jbYb2vdDylg1jEJboXMOti+DizyLKJ\nqmqu5vizWTYSkRBq4rBYOQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlops-project-1@vast-collective-467816-u5.iam.gserviceaccount.com",
+  "client_id": "118120342342290939906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlops-project-1%40vast-collective-467816-u5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
